@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "hugo",
+    "build:preview": "hugo --baseURL \"${DEPLOY_PRIME_URL:-/}\" --buildDrafts --buildFuture",
+    "start": "hugo server -D",
+    "mod": "hugo mod get",
+    "clean": "rm -r public && rm -r resources"
+  },
+  "devDependencies": {
+    "hugo-extended": "^0.140.2"
+  }
+}
