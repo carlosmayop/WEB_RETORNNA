@@ -1,0 +1,21 @@
+#   Navigation bar
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#   desired widget in your `content/home/` folder.
+
+- id: menu_news
+  translation: News
+
+- id: menu_people
+  translation: People
+
+- id: menu_publications
+  translation: Publications
+
+- id: menu_contact
+  translation: Contact
+
+- id: menu_events
+  translation: Events
+
+- id: menu_tour
+  translation: Tour

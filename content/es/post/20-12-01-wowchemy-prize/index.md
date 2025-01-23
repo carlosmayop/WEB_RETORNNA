@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Richard Hendricks Obtiene el Primer Premio en el Concurso Wowchemy
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Felicitaciones a Richard Hendricks por ganar el primer premio en el concurso Wowchemy.
 
 <!--more-->
 

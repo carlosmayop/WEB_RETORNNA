@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contacto
 date: 2022-10-24
 
 type: landing
@@ -7,25 +7,26 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Contacto
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        Para cualquier consulta, puedes contactarnos a través de nuestro correo electrónico. Responderemos a tu solicitud en un plazo máximo de 48 horas. Si no recibes nuestra respuesta en ese tiempo, por favor revisa la carpeta de Spam en tu bandeja de entrada.
+      email: retornna@unizar.es
+      phone: +34 666 666 666
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: María de Luna
+        city: Zaragoza
+        region: 
+        postcode: '50018'
+        country: España
+        country_code: ES
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '41.683213'
+        longitude: '-0.88857'
+      directions: Edificio Ada Byron, Planta 1
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Lunes a viernes'
+        - 'Mañanas: 9:00 a 14:00'
+        - 'Tardes: 16:00 to 20:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
@@ -38,9 +39,9 @@ sections:
     
       # Email form provider
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id:
+          id: movjqwbv
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false

@@ -9,23 +9,26 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        For any inquiries, you can contact us via email. We will respond to your request
+        within a maximum of 48 hours. If you do not receive our reply within this time,
+        please check the Spam folder in your inbox.
+      email: retornna@unizar.es
+      phone: +34 666 666 666
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: María de Luna
+        city: Zaragoza
+        region: 
+        postcode: '50018'
+        country: Spain
+        country_code: ES
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '41.683213'
+        longitude: '-0.88857'
+      directions: Ada Byron Building, Floor 1
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday to Friday'
+        - 'Morning: 09:00 to 14:00'
+        - 'Afternoon: 16:00 to 20:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
@@ -43,7 +46,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '1'
 

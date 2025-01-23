@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        RETORNNA Proyect
       image:
-        filename: welcome.jpg
+        filename: logo_riscv.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        This proyect aims to provide  a full-fleged implementation of three machine learning acceleration techniques that could be seamlessly integrated into existing RISC-V cores, including both hardware and software support
   
   - block: collection
     content:
