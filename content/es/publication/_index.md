@@ -1,10 +1,10 @@
 ---
 title: Publicaciones
 
-# Listing view
+# Tipo de vista
 view: citation
 
-# Optional banner image (relative to `assets/media/` folder).
+# Imagen opcional del banner (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''

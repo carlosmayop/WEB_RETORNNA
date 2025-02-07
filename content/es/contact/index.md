@@ -34,16 +34,16 @@ sections:
       #    name: Discuss on Forum
       #    link: 'https://discourse.gohugo.io'
     
-      # Automatically link email and phone or display as text?
+      # Linkar automaticamente el email y teléfono o mostralo como texto?
       autolink: true
     
-      # Email form provider
+      # Proveedor del formulario de contacto
       form:
         provider: formspree
         formspree:
           id: movjqwbv
         netlify:
-          # Enable CAPTCHA challenge to reduce spam?
+          # Activar CAPTCHA para reducir el spam?
           captcha: false
     design:
       columns: '1'

@@ -8,14 +8,14 @@ sections:
   - block: people
     content:
       title: Conoce al equipo
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      # Elige los grupos de usuarios a mostrar
+      # Edita 'user_groups' en el index de cada usuario para añadirlo a uno o más de estos grupos.
       user_groups:
           - Investigadores Principales
           - Investigadores
           - Estudiantes
           - Administacion
-          - Visitantes
+          - Profesores
       sort_by: Params.last_name
       sort_ascending: true
     design:

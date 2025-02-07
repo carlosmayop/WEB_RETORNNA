@@ -1,10 +1,10 @@
 ---
 title: Últimas noticas
 
-# Listing view
+# Tipo de vista
 view: compact
 
-# Optional banner image (relative to `assets/media/` folder).
+# Imagen opcional del banner (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''

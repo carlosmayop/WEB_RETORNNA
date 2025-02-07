@@ -44,11 +44,11 @@ sections:
           text: Join Us
           url: ../contact/
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      # La altura se asigna automaticamente a no ser de que se fuerze una altura (ej. '400px')
       slide_height: ''
       is_fullscreen: true
-      # Automatically transition through slides?
+      # Transicionar imágenes automaticamente?
       loop: false
-      # Duration of transition between slides (in ms)
+      # Tiempo entre la transición de cada imagen (en ms)
       interval: 2000
 ---

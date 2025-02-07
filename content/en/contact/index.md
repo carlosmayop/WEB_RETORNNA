@@ -41,12 +41,10 @@ sections:
     
       # Email form provider
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+          id: movjqwbv
+        
     design:
       columns: '1'
 

@@ -10,11 +10,13 @@ sections:
       title: |
         Proyecto RETORNNA
       image:
-        filename: welcome.jpg
+        filename: logo_riscv.png
       text: |
         <br>
         
-        Aceleradores optimizados y resilientes para aprendizaje automático en entornos RISC-V
+        El objetivo de este proyecto es proporcionar una implementación completa de tres técnicas de aceleración 
+        para aprendizaje automático que puedan integrarse sin problemas en los núcleos RISC-V existentes, incluyendo 
+        soporte tanto de hardware como de software
   
   - block: collection
     content:
@@ -73,7 +75,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Conoce al equipo →" %}}
     design:
       columns: '1'
 ---
