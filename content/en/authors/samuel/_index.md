@@ -35,5 +35,5 @@ education:
 highlite_name: false
 
 user_groups:
-    - Researchers
+    - PhD Students
 ---

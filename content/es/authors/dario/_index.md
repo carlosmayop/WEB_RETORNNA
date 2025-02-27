@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Javier Resano
+title: Darío Suarez
 
 # Full name (for SEO)
-first_name: Javier
-last_name: Resano
+first_name: Darío
+last_name: Suarez Gracia
 
 # String to fill the url of the i3a personal page 
-i3a_name: javier-resano
+i3a_name: dario-suarez-gracia
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor/Researcher
+role: Profesor/Investigador
 
 organizations:
 - name: University of Zaragoza
@@ -35,5 +35,5 @@ education:
 highlite_name: false
 
 user_groups:
-    - Researchers
+    - Investigadores
 ---

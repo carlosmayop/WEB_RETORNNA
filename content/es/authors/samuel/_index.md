@@ -27,8 +27,7 @@ interests:
 education:
 
 user_groups:
-  - Investigadores
-  - Estudiantes
+  - Estudiantes de Doctorado
   
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

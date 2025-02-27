@@ -12,7 +12,7 @@ sections:
         For any inquiries, you can contact us via email. We will respond to your request
         within a maximum of 48 hours. If you do not receive our reply within this time,
         please check the Spam folder in your inbox.
-      email: retornna@unizar.es
+      email: 
       phone: +34 666 666 666
       address:
         street: María de Luna
@@ -29,7 +29,7 @@ sections:
         - 'Monday to Friday'
         - 'Morning: 09:00 to 14:00'
         - 'Afternoon: 16:00 to 20:00'
-      appointment_url: 'https://calendly.com'
+      appointment_url: 
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas

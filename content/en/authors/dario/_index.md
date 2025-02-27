@@ -13,7 +13,7 @@ i3a_name: dario-suarez-gracia
 superuser: false
 
 # Role/position
-role: Researcher
+role: Professor/Researcher
 
 organizations:
 - name: University of Zaragoza
@@ -35,6 +35,5 @@ education:
 highlite_name: false
 
 user_groups:
-    - Principal Researchers
-    - Professor
+    - Researchers
 ---

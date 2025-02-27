@@ -13,7 +13,7 @@ i3a_name: javier-resano
 superuser: false
 
 # Role/position
-role: Professor/Researcher
+role: Profesor/Investigador
 
 organizations:
 - name: University of Zaragoza
@@ -35,5 +35,5 @@ education:
 highlite_name: false
 
 user_groups:
-    - Researchers
+    - Investigadores
 ---

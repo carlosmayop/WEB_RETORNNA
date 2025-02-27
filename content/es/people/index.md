@@ -11,9 +11,8 @@ sections:
       # Elige los grupos de usuarios a mostrar
       # Edita 'user_groups' en el index de cada usuario para añadirlo a uno o más de estos grupos.
       user_groups:
-          - Investigadores Principales
           - Investigadores
-          - Estudiantes
+          - Estudiantes de Doctorado
           - Administacion
           - Profesores
       sort_by: Params.last_name
